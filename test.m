@@ -1,5 +1,3 @@
-% CMPT 412
-% Assignment 4
 % Face Recognition Using Fourier Transforms
 % 
 % Patrick Wang

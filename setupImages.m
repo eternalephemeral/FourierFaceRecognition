@@ -1,5 +1,3 @@
-% CMPT 412
-% Assignment 4
 % Face Recognition Using Fourier Transforms
 %
 % Patrick Wang
@@ -9,7 +7,7 @@
 %
 % RUN THIS FIRST!
 
-global mastDir numSubjects numFacesPerSubject numRVarFreq numIVarFreq padd;
+global mastDir numSubjects numFacesPerSubject numRVarFreq numIVarFreq padd face;
 
 mastDir = 'att_faces';
 numSubjects = 40;
